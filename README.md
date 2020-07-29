@@ -58,7 +58,18 @@ Name | Price | Details
  - [Ambleside Curriculum](https://www.amblesideonline.org)
  - [Homeschool Curriculum](https://www.time4learning.com/homeschool-curriculum.htm)
  - [The Best Homeschooling Resources I Found After 7 years of Testing](https://github.com/ryanseamons/thedeliberatefamily/blob/master/src/html/blog/homeschool-resources.md)
- 
+ - [Simply Charlotte Mason](https://simplycharlottemason.com): Curriculum and others
+ - [keeping the kids busy at home](https://lifewiththetsengs.home.blog/2020/03/17/keeping-the-kids-busy-covid-19-version/)
+ - [Amazing Resources](https://www.amazingeducationalresources.com)
+ - [Homeschool Reviews](https://cathyduffyreviews.com/)
+ http://californiahomeschool.net/howTo/pdf/CHNJTF2012_13.pdf
+ - [PROS and CONS](https://www.weirdunsocializedhomeschoolers.com/homeschooling-pros-and-cons/#content)
+ - [The Top Six Challenges of Homeschooling](https://babygizmo.com/top-six-challenges-homeschooling/)
+ - [How to Homeschool](http://www.californiahomeschool.net/howTo/faq.htm)
+ - [Censug.gov Home and Distance Learning Activities](https://www.census.gov/content/census/en/programs-surveys/sis/activities/distance-learning.html)
+ https://welltrainedmind.com/?v=19d3326f3137
+ https://www.goodandbeautiful.com
+
 ## Apps
 
 ## Math
@@ -101,6 +112,10 @@ Name | Price | Details
   - [Handbook of Nature Study](https://handbookofnaturestudy.com)
  ### Music 
   - [Chrome Music lab](https://musiclab.chromeexperiments.com/Experiments)
+  - [Hoffman Academy](https://www.hoffmanacademy.com): Freemium, 18 usd/month
+  ### RPG
+  - [Dnd Adventures for kids](https://dndadventuresforkids.com/): Free Kid-Friendly Dungeons and Dragons Adventures and Resources
+
  ### Movement + Meditation
   - [Gonoodle](https://www.gonoodle.com)
 
@@ -110,3 +125,7 @@ Name | Price | Details
 ## Offline
  - [How to smile](www.howtosmile.org): Classes in many topics: astronomy, climate, cooking, human body, etc
  - [The activity Mom](https://activity-mom.com)
+
+
+ ### Room Setup 
+ - [Pinterest](https://www.pinterest.com/search/pins/?q=homeschool%20room)
