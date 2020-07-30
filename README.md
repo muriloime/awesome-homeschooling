@@ -50,11 +50,12 @@ Name | Price | Details
 
 ## Advice
 
+ - [Discovery K12 Parent Guide](http://discoveryk12.com/dk12/wp-content/uploads/2020/05/PTA-Guide-2020-2021.pdf)
  - [Simple Homeschool](https://simplehomeschool.net)
  - [Free Homeschool Deals](https://www.freehomeschooldeals.com)
  - [PAID] [Teachers Pay Teachers](https://www.teacherspayteachers.com)
  - [Easy Peasy Homeschool](https://allinonehomeschool.com)
- - [FunBrain](https://www.funbrain.com/books): Games, videos, reading activities on many topics
+ - [FunBrain](https://www.funbrain.com/): Games, videos, reading activities on many topics
  - [Ambleside Curriculum](https://www.amblesideonline.org)
  - [Homeschool Curriculum](https://www.time4learning.com/homeschool-curriculum.htm)
  - [The Best Homeschooling Resources I Found After 7 years of Testing](https://github.com/ryanseamons/thedeliberatefamily/blob/master/src/html/blog/homeschool-resources.md)
@@ -66,9 +67,13 @@ Name | Price | Details
  - [PROS and CONS](https://www.weirdunsocializedhomeschoolers.com/homeschooling-pros-and-cons/#content)
  - [The Top Six Challenges of Homeschooling](https://babygizmo.com/top-six-challenges-homeschooling/)
  - [How to Homeschool](http://www.californiahomeschool.net/howTo/faq.htm)
- - [Censug.gov Home and Distance Learning Activities](https://www.census.gov/content/census/en/programs-surveys/sis/activities/distance-learning.html)
- https://welltrainedmind.com/?v=19d3326f3137
- https://www.goodandbeautiful.com
+ - [Census.gov Home and Distance Learning Activities](https://www.census.gov/content/census/en/programs-surveys/sis/activities/distance-learning.html)
+ - [Power my learning](https://powermylearning.org)
+ - [Well Trained Mind](https://welltrainedmind.com/?v=19d3326f3137)
+ - [Good And Beautiful](https://www.goodandbeautiful.com)
+ - [Enchanted Learning](http://www.enchantedlearning.com/Home.html)
+
+http://discoveryk12.com/
 
 ## Apps
 
@@ -84,14 +89,17 @@ Name | Price | Details
  - [Steve Spangler science](https://www.stevespanglerscience.com)
  - [Crash Course Kids](https://www.youtube.com/user/crashcoursekids)
  - [Club Sci Kidz](http://www.clubscikidzmd.com/blog/)
+ - [NASA STEM](https://www.nasa.gov/stem/forstudents/k-4/index.html)
 
 ## Code
 
  - [code.org](https://code.org)
+ - [Awesome Programming for kids](https://github.com/HollyAdele/awesome-programming-for-kids#readme)
 
 ## English
 
   - [reading eggs](https://readingeggs.com)
+  - [Storyline Online](https://www.storylineonline.net): Many many stories read on youtube
 
 ## Portuguese
 
