@@ -137,3 +137,11 @@ http://discoveryk12.com/
 
  ### Room Setup 
  - [Pinterest](https://www.pinterest.com/search/pins/?q=homeschool%20room)
+
+
+## To sort
+
+https://teach.starfall.com/lv/
+https://www.starfall.com/h/
+https://learninglab.si.edu
+https://simplehomeschool.net/educational-philosophies-defined-part-i/
