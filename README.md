@@ -156,3 +156,4 @@ https://teach.starfall.com/lv/
 https://www.starfall.com/h/
 https://learninglab.si.edu
 https://simplehomeschool.net/educational-philosophies-defined-part-i/
+https://escola.britannica.com.br/se%C3%A7%C3%A3o/tema/13063/13076
