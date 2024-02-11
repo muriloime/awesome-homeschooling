@@ -81,6 +81,7 @@ http://discoveryk12.com/
 - [Math Learning Center](https://www.mathlearningcenter.org/resources/apps)
 - [BedTime Math](http://bedtimemath.org)
 - [Phet simulations](https://phet.colorado.edu)
+- [MathPlayground](https://www.mathplayground.com/Triplets/index.html) - Games to train fast mental math
 
 ## Science
 
