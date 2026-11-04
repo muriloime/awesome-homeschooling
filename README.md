@@ -150,6 +150,7 @@ http://discoveryk12.com/
 ### Room Setup
 
 - [Pinterest](https://www.pinterest.com/search/pins/?q=homeschool%20room)
+- [QuizQuip](https://quizquip.com) - Free syllabus-aligned science revision hub for Singapore lower-secondary students: chapter notes, key terms, quizzes, topical questions and original practice papers by exam stage.
 
 ## To sort
 
