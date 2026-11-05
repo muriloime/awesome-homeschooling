@@ -85,7 +85,7 @@ http://discoveryk12.com/
 
 ## Science
 
-- [Space Atlas](https://saramjh.github.io/space_atlas_student/) — Free browser-based interactive lessons on Moon phases, Earth seasons, and cosmic scale; useful for parent-guided science activities; no sign-in required.
+- [Space Atlas](https://spaceatlasedu.org/) — Free browser-based interactive lessons on Moon phases, Earth seasons, and cosmic scale; useful for parent-guided science activities; no sign-in required.
 
 - [Steve Spangler science](https://www.stevespanglerscience.com)
 - [Crash Course Kids](https://www.youtube.com/user/crashcoursekids)
