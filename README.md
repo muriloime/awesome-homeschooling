@@ -106,6 +106,7 @@ http://discoveryk12.com/
 
 - [reading eggs](https://readingeggs.com)
 - [Storyline Online](https://www.storylineonline.net): Many many stories read on youtube
+- [Letter formation data + printable name tracing sheets](https://github.com/RayJ7/letter-formation-toolkit): 26-letter stroke order, start point and common-error dataset (CSV) plus a dependency-free script that prints a name tracing sheet
 
 ## Portuguese
 
