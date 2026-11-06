@@ -85,11 +85,14 @@ http://discoveryk12.com/
 
 ## Science
 
+- [Space Atlas](https://spaceatlasedu.org/) — Free browser-based interactive lessons on Moon phases, Earth seasons, and cosmic scale; useful for parent-guided science activities; no sign-in required.
+
 - [Steve Spangler science](https://www.stevespanglerscience.com)
 - [Crash Course Kids](https://www.youtube.com/user/crashcoursekids)
 - [Club Sci Kidz](http://www.clubscikidzmd.com/blog/)
 - [NASA STEM](https://www.nasa.gov/stem/forstudents/k-4/index.html)
 - [Scivra](https://scivra.com): Freemium, 3D virtual science labs for high school (physics, chemistry, biology, Earth and environmental science); 3 labs free without an account, full access from 7.99 usd/month
+- [Sandbox Physics](https://sandboxphysics.com/) - Interactive physics experiments with explanations in English and Chinese.
 
 ## Code
 
@@ -104,6 +107,7 @@ http://discoveryk12.com/
 
 - [reading eggs](https://readingeggs.com)
 - [Storyline Online](https://www.storylineonline.net): Many many stories read on youtube
+- [Letter formation data + printable name tracing sheets](https://github.com/RayJ7/letter-formation-toolkit): 26-letter stroke order, start point and common-error dataset (CSV) plus a dependency-free script that prints a name tracing sheet
 
 ## Portuguese
 
