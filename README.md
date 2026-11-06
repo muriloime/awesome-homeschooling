@@ -59,6 +59,7 @@ This repository contains the best learning resources related to homeschooling I 
 - [Simply Charlotte Mason](https://simplycharlottemason.com): Curriculum and others
 - [keeping the kids busy at home](https://lifewiththetsengs.home.blog/2020/03/17/keeping-the-kids-busy-covid-19-version/)
 - [Amazing Resources](https://www.amazingeducationalresources.com)
+- [HomeschoolPicks](https://homeschoolpicks.com/) - Honest homeschool curriculum reviews, method guides, and state-by-state requirements.
 - [Homeschool Reviews](https://cathyduffyreviews.com/)
   http://californiahomeschool.net/howTo/pdf/CHNJTF2012_13.pdf
 - [PROS and CONS](https://www.weirdunsocializedhomeschoolers.com/homeschooling-pros-and-cons/#content)
