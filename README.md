@@ -91,6 +91,7 @@ http://discoveryk12.com/
 - [Crash Course Kids](https://www.youtube.com/user/crashcoursekids)
 - [Club Sci Kidz](http://www.clubscikidzmd.com/blog/)
 - [NASA STEM](https://www.nasa.gov/stem/forstudents/k-4/index.html)
+- [Scivra](https://scivra.com): Freemium, 3D virtual science labs for high school (physics, chemistry, biology, Earth and environmental science); 3 labs free without an account, full access from 7.99 usd/month
 - [Sandbox Physics](https://sandboxphysics.com/) - Interactive physics experiments with explanations in English and Chinese.
 
 ## Code
