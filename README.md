@@ -84,6 +84,7 @@ http://discoveryk12.com/
 - [Phet simulations](https://phet.colorado.edu)
 - [MathPlayground](https://www.mathplayground.com/Triplets/index.html) - Games to train fast mental math
 - [Fraction to Decimal Converter](https://flowser.net/p/Fraction-Decimal-Conversion) - Ad-free converter that shows the long division step by step, with a repeating-decimal chart
+- [VistaMath](https://vistamath.com) - Free graphing calculator with live sliders, plus visual explorers for the unit circle, fractions, slopes, conics and more
 
 ## Science
 
