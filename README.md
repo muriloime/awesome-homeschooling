@@ -150,6 +150,7 @@ http://discoveryk12.com/
 
 ## Offline
 
+- [WowColoring](https://wowcoloring.com/collections) - Free printable coloring PDFs with animal, nature, and seasonal themes for screen-free art activities.
 - [How to smile](www.howtosmile.org): Classes in many topics: astronomy, climate, cooking, human body, etc
 - [The activity Mom](https://activity-mom.com)
 
