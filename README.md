@@ -109,6 +109,7 @@ http://discoveryk12.com/
 - [reading eggs](https://readingeggs.com)
 - [Storyline Online](https://www.storylineonline.net): Many many stories read on youtube
 - [Letter formation data + printable name tracing sheets](https://github.com/RayJ7/letter-formation-toolkit): 26-letter stroke order, start point and common-error dataset (CSV) plus a dependency-free script that prints a name tracing sheet
+- [Yes or No Question Cards](https://couscous.ai/printables): Printable yes-or-no question cards and Who am I? cards (scientists, writers, explorers, animals, food) for guessing games; one PDF per deck, A4 or Letter; also in Spanish, German, French and Russian
 
 ## Portuguese
 
