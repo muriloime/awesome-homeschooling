@@ -94,6 +94,7 @@ http://discoveryk12.com/
 - [Club Sci Kidz](http://www.clubscikidzmd.com/blog/)
 - [NASA STEM](https://www.nasa.gov/stem/forstudents/k-4/index.html)
 - [Sandbox Physics](https://sandboxphysics.com/) - Interactive physics experiments with explanations in English and Chinese.
+- [Space Simulator Online](https://spacesimulator.online/) - Free 3D tour of the Solar System, star sizes and galaxies in the browser, built on NASA data; no sign-in, no ads.
 
 ## Code
 
