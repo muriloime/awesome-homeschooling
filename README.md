@@ -27,6 +27,7 @@ This repository contains the best learning resources related to homeschooling I 
 | ----------------------------------------------------------------------------------------------------------------- | ----------------- | -------------------------------------------- |
 | [Story Time from Space](https://storytimefromspace.com/)                                                          | Free              | Astronauts reading stories from the ISS      |
 | [Storyline Online](https://www.storylineonline.net/library/)                                                      | Free              | Stories read aloud by actors                 |
+| [Read-Aloud Bedtime Stories](https://honestlittleapps.github.io/bedtime-stories/)                                 | Free              | Short original stories with printable PDFs   |
 | [Art for Kids Hub](https://www.artforkidshub.com/)                                                                | Free              | Art lesson videos                            |
 | [Scholastic LearnAtHome](https://scholastic.com/learnathome)                                                      | Free              | 20 days of reading activities                |
 | [Mystery Science K-5](https://mysteryscience.com/school-closure-planning)                                         | Free              | Science videos/activities                    |
@@ -84,6 +85,7 @@ http://discoveryk12.com/
 - [Phet simulations](https://phet.colorado.edu)
 - [MathPlayground](https://www.mathplayground.com/Triplets/index.html) - Games to train fast mental math
 - [Fraction to Decimal Converter](https://flowser.net/p/Fraction-Decimal-Conversion) - Ad-free converter that shows the long division step by step, with a repeating-decimal chart
+- [Number Bonds Practice](https://number-bonds-practice.simpletonfacts.workers.dev/) - Make-10, 20 or 100 practice plus a printable worksheet generator with an answer key; no sign-in
 
 ## Science
 
@@ -94,6 +96,8 @@ http://discoveryk12.com/
 - [Club Sci Kidz](http://www.clubscikidzmd.com/blog/)
 - [NASA STEM](https://www.nasa.gov/stem/forstudents/k-4/index.html)
 - [Sandbox Physics](https://sandboxphysics.com/) - Interactive physics experiments with explanations in English and Chinese.
+- [Human Body Systems slides](https://honestlittleapps.github.io/downloads/human-body-systems-slides) - Free PowerPoint covering the 11 body systems
+- [Why Is the Sky Blue and Sunsets Red? slides](https://honestlittleapps.github.io/downloads/why-sunsets-are-red-slides) - Free PowerPoint on light scattering
 
 ## Code
 
