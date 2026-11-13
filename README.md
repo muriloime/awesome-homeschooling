@@ -94,6 +94,7 @@ http://discoveryk12.com/
 - [Club Sci Kidz](http://www.clubscikidzmd.com/blog/)
 - [NASA STEM](https://www.nasa.gov/stem/forstudents/k-4/index.html)
 - [Sandbox Physics](https://sandboxphysics.com/) - Interactive physics experiments with explanations in English and Chinese.
+- [Chempirical](https://chempirical.com/for-students/) - Free tools for high-school chemistry: periodic table, molar mass, equation balancing and structure drawing, with no sign-in.
 
 ## Code
 
