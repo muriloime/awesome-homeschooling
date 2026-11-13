@@ -45,6 +45,7 @@ This repository contains the best learning resources related to homeschooling I 
 | [ICTGames](http://ictgames.co.uk/)                                                                                | Free              | Free teacher-created games                   |
 | [Help Teaching](https://www.helpteaching.com/)                                                                    | Free              | Printable worksheets, tests, lessons, etc.   |
 | [Kids Worksheets Maker](https://kidsworksheetsmaker.com/)                                                         | Free        
+| [ReadySetSay: Rocket Launch](https://readysetsay.com/play.html) | Free | Picture game for kids starting to talk in short phrases; no sign-up, ads or tracking |
 
 ## Advice
 
