@@ -45,6 +45,7 @@ This repository contains the best learning resources related to homeschooling I 
 | [ICTGames](http://ictgames.co.uk/)                                                                                | Free              | Free teacher-created games                   |
 | [Help Teaching](https://www.helpteaching.com/)                                                                    | Free              | Printable worksheets, tests, lessons, etc.   |
 | [Kids Worksheets Maker](https://kidsworksheetsmaker.com/)                                                         | Free        
+| [Notebook Generator](https://www.notebookgenerator.com/en/)                                                       | Free              | Printable handwriting, graph and lined paper |
 
 ## Advice
 
