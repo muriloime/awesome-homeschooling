@@ -94,6 +94,7 @@ http://discoveryk12.com/
 - [Club Sci Kidz](http://www.clubscikidzmd.com/blog/)
 - [NASA STEM](https://www.nasa.gov/stem/forstudents/k-4/index.html)
 - [Sandbox Physics](https://sandboxphysics.com/) - Interactive physics experiments with explanations in English and Chinese.
+- [carboncarbon.bond](https://carboncarbon.bond/) - Free organic chemistry lessons, from a single carbon atom to medicines, materials and the molecules of life, with 3D models and a quick check after each section; no sign-in required.
 
 ## Code
 
