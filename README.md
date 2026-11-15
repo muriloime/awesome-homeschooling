@@ -126,6 +126,7 @@ http://discoveryk12.com/
 - [Discovery Education](https://www.discoveryeducation.com): Topics in math, science, social studies, etc
 - [Ted Education](https://ed.ted.com)
 - [CK12](https://www.ck12.org/student/)
+- [GetYouTubeTranscript](https://getyoutubetranscript.com) - Turns an educational YouTube video into a readable transcript with timestamps and an AI summary, handy for reading along, notes and quiz prep. Freemium.
 
 ### Nature
 
