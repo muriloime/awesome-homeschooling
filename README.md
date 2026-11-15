@@ -75,6 +75,8 @@ http://discoveryk12.com/
 
 ## Apps
 
+- [EveryApp Flashcards](https://everyapp.pro/flashcard-maker) - Make flashcard decks by hand or from a pasted list (or import Quizlet and Anki text) and review them with spaced repetition; Learn and Test modes before a quiz. Free decks and cards, optional paid Pro plan.
+
 ## Math
 
 - [XtraMath](https://xtramath.org)
