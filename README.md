@@ -135,6 +135,8 @@ http://discoveryk12.com/
 
 - [Chrome Music lab](https://musiclab.chromeexperiments.com/Experiments)
 - [Hoffman Academy](https://www.hoffmanacademy.com): Freemium, 18 usd/month
+- [Plastic Piano Chords](https://plastic.audio/piano-chords/): Free. Tap any chord to hear it and see its notes, fingering and inversions; prints as a one-page chord chart
+- [Plastic Metronome](https://plastic.audio/metronome/): Free online metronome; pick the beats per bar, accent the first beat and add subdivisions for practice at home
 
 ### RPG
 
