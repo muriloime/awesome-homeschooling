@@ -123,6 +123,7 @@ http://discoveryk12.com/
 
 ## Miscellaneous
 
+- [AIHumanLove](https://aihumanlove.com): Free | AI tools directory with 1,500+ tools, free AI courses for beginners, interactive experiments, and a 175+ prompt library. EN/ES/PT.
 - [Discovery Education](https://www.discoveryeducation.com): Topics in math, science, social studies, etc
 - [Ted Education](https://ed.ted.com)
 - [CK12](https://www.ck12.org/student/)
