@@ -84,6 +84,7 @@ http://discoveryk12.com/
 - [Phet simulations](https://phet.colorado.edu)
 - [MathPlayground](https://www.mathplayground.com/Triplets/index.html) - Games to train fast mental math
 - [Fraction to Decimal Converter](https://flowser.net/p/Fraction-Decimal-Conversion) - Ad-free converter that shows the long division step by step, with a repeating-decimal chart
+* [Bella and Pan Parents guide](https://bellaandpan.com/parents#difficulty). A free example to try on paper. Work out 3 + 4 × 2, then add parentheses and compare the answers.
 
 ## Science
 
