@@ -130,6 +130,7 @@ http://discoveryk12.com/
 ### Nature
 
 - [Handbook of Nature Study](https://handbookofnaturestudy.com)
+- [Greenly Garden](https://greenly.garden) - Android app for growing a family vegetable patch: identifies plants and plant diseases from a photo and builds a sowing calendar from your local frost dates. Free, with optional Premium.
 
 ### Music
 
