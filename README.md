@@ -84,6 +84,7 @@ http://discoveryk12.com/
 - [Phet simulations](https://phet.colorado.edu)
 - [MathPlayground](https://www.mathplayground.com/Triplets/index.html) - Games to train fast mental math
 - [Fraction to Decimal Converter](https://flowser.net/p/Fraction-Decimal-Conversion) - Ad-free converter that shows the long division step by step, with a repeating-decimal chart
+- [Paper Generator](https://paper-generator.com/) - Free printable graph paper (1/4 in, 1/5 in, 1/2 in, 5 mm, 1 cm), lined paper and multiplication charts as PDFs that print at true scale; made in the browser, no sign-up
 
 ## Science
 
