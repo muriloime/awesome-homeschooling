@@ -44,6 +44,7 @@ This repository contains the best learning resources related to homeschooling I 
 | [Outschool](https://outschool.com/)                                                                               | Paid (free trial) | Live online courses                          |
 | [ICTGames](http://ictgames.co.uk/)                                                                                | Free              | Free teacher-created games                   |
 | [Help Teaching](https://www.helpteaching.com/)                                                                    | Free              | Printable worksheets, tests, lessons, etc.   |
+| [Recess Puzzles](https://puzzles.rowhousesoftware.com/)                                                           | Free (Pro $12 once) | Crosswords and word searches from your word list, with answer keys |
 | [Kids Worksheets Maker](https://kidsworksheetsmaker.com/)                                                         | Free        
 
 ## Advice
