@@ -44,6 +44,7 @@ This repository contains the best learning resources related to homeschooling I 
 | [Outschool](https://outschool.com/)                                                                               | Paid (free trial) | Live online courses                          |
 | [ICTGames](http://ictgames.co.uk/)                                                                                | Free              | Free teacher-created games                   |
 | [Help Teaching](https://www.helpteaching.com/)                                                                    | Free              | Printable worksheets, tests, lessons, etc.   |
+| [PuzzleBind Holiday Word Search Pack](https://puzzlebind.com/holiday-word-search/?utm_source=github&utm_medium=awesome_list&utm_campaign=leadgen1125) | Free (email needed) | Printable holiday word searches with answer keys |
 | [Kids Worksheets Maker](https://kidsworksheetsmaker.com/)                                                         | Free        
 
 ## Advice
